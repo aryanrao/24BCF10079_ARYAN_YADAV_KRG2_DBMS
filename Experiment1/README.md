@@ -47,21 +47,21 @@ Successful creation of tables, insertion of records, updated and deleted data, r
 
 
 ### DML Operations
-![DML Operations](screenshots/Screenshot 2026-01-26 191217.png)
+![DML Operations](https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment1/screenshots/Screenshot%202026-01-26%20191217.png)
 
 ### SELECT Output
-![Select Output](screenshots/Screenshot 2026-01-26 191233.png)
+![Select Output](https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment1/screenshots/Screenshot%202026-01-26%20191233.png)
 
 ### Role Creation and revoke
 #### Grant
-![Grant Permissions](screenshots/Screenshot 2026-01-26 191356.png)
+![Grant Permissions](https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment1/screenshots/Screenshot%202026-01-26%20191356.png)
 #### Revoke
-![revoke permissions](screenshots/Screenshot 2026-01-26 191411.png)
+![revoke permissions](https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment1/screenshots/Screenshot%202026-01-26%20191411.png)
 
 ### Running query in user server
-![Running query in user server](screenshots/Screenshot 2026-01-26 192752.png)
+![Running query in user server](https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment1/screenshots/Screenshot%202026-01-26%20192752.png)
 ### Modifying data in user server
-![Modifying data in user server](screenshots/Screenshot 2026-01-26 192802.png)
+![Modifying data in user server](https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment1/screenshots/Screenshot%202026-01-26%20192802.png)
 
 
 ## Learning Outcome
