@@ -5,10 +5,10 @@ DECLARE
     bonus_amount  NUMBER;
     new_salary    NUMBER;
 BEGIN
-    -- Calculate 10% bonus on employee salary
+    
     bonus_amount := emp_salary * 0.10;
 
-    -- Calculate new salary after adding bonus
+    
     new_salary := emp_salary + bonus_amount;
 
     DBMS_OUTPUT.PUT_LINE('Employee Details');
@@ -22,4 +22,5 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('10% Bonus Amount    : ' || bonus_amount);
     DBMS_OUTPUT.PUT_LINE('Salary After Bonus  : ' || new_salary);
 END;
+
 /
