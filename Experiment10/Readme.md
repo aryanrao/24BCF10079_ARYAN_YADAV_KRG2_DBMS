@@ -60,6 +60,21 @@ In enterprise-level applications, manually assigning primary keys can lead to du
 ### Input
 Table: employee (emp_id, name, salary)
 
+### Step 1 – Create Employee Table  
+<img width="1439" height="909" alt="image" src="https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment10/Screenshots/Screenshot%202026-04-24%20095333.png" />
+
+### Step 2 – Create Sequence emp_seq  
+<img width="1439" height="909" alt="image" src="https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment10/Screenshots/Screenshot%202026-04-24%20095407.png" />
+
+### Step 3 – Create Trigger emp_trigger
+<img width="1439" height="909" alt="image" src="https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment10/Screenshots/Screenshot%202026-04-24%20095421.png" />
+
+### Step 4 – Insert data in table 
+<img width="1439" height="909" alt="image" src="https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment10/Screenshots/Screenshot%202026-04-24%20095435.png" />
+
+### Step 5 – Verify data
+<img width="1439" height="909" alt="image" src="https://github.com/aryanrao/24BCF10079_ARYAN_YADAV_KRG2_DBMS/blob/main/Experiment10/Screenshots/Screenshot%202026-04-24%20095450.png" />
+
 ---
 
 ## SQL Implementation
